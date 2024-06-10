@@ -15,8 +15,9 @@
 .navImg {
   width: 10vw;
 }
-.centering {
+.centeringNav {
   display: flex;
+  flex-direction: row;
   align-items: center;
   margin: 1% 5%;
 }

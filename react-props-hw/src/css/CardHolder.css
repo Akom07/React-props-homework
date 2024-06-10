@@ -5,3 +5,17 @@
   margin-top: 5vh;
   flex-wrap: wrap;
 }
+.holderbtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: silver;
+  width: 100%;
+}
+.holderbtn button {
+  padding: 10px 3em;
+  margin-bottom: 1.1em;
+  border: 1px solid blueviolet;
+  color: blueviolet;
+  border-radius: 30px;
+}
