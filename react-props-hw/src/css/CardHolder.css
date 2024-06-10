@@ -1,0 +1,7 @@
+.cardHolder {
+  display: flex;
+  background-color: silver;
+  width: 100%;
+  margin-top: 5vh;
+  flex-wrap: wrap;
+}
