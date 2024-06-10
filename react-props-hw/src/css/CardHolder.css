@@ -19,3 +19,8 @@
   color: blueviolet;
   border-radius: 30px;
 }
+.holderbtn button:hover {
+  background-color: blueviolet;
+  box-shadow: 1px 1px 5px black;
+  color: white;
+}
